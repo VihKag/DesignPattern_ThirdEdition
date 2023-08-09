@@ -1,0 +1,17 @@
+{
+  "name": "factory",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {},
+  "engines": {
+    "node": ">=14"
+  },
+  "engineStrict": true,
+  "author": "",
+  "license": "ISC"
+}
